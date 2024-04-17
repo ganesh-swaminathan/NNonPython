@@ -13,3 +13,5 @@ output = [inputs[0]*weights1[0] + inputs[1]*weights1[1] + inputs[2]*weights1[2] 
           inputs[0]*weights3[0] + inputs[1]*weights3[1] + inputs[2]*weights3[2] + inputs[3]*weights3[3] + bias3]
 
 print(output)
+
+#video URL: https://www.youtube.com/watch?v=lGLto9Xd7bU&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3&index=2
